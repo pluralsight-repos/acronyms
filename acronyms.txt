@@ -1,1 +1,3 @@
-ip = edson
+ML - Machine Learning
+EDS - Edson da Silva
+MS - Microsoft
